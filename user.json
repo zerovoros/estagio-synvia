@@ -1,9 +1,14 @@
 {
-	"name": "Bruno",
-	"surname": "Gonçalves",
-	"profession": "Desenvolvedor",
-	"contact": {
-		"phone": "00123456789",
+	"nome": "Bruno",
+	"sobrenome": "Gonçalves",
+	"emprego": "Desenvolvedor",
+	"contato": {
+		"telefone": "00123456789",
 		"email": "teste@teste.com"
+	},
+	"pontos": {
+		"mes1": [20, 30, 60],
+		"mes2": [50, 20, 30],
+		"mes3": [30, 30, 40]
 	}
 }
